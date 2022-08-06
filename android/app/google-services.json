@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1057157034551",
+    "project_id": "fir-90126",
+    "storage_bucket": "fir-90126.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057157034551:android:0a0706270dc83dcfd685b2",
+        "android_client_info": {
+          "package_name": "com.example.pokeblog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057157034551-j2ja433r023a5cr90kmi182j4o42o8ab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM_0q70EXEXyt6XhQYdhQ4MUAk818I6B0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057157034551-j2ja433r023a5cr90kmi182j4o42o8ab.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
